@@ -22,8 +22,8 @@ Sou Amanda Prado, do [Club de Português :brazil:](https://clubdeportugues.com/)
  [:small_blue_diamond: Licenças](#scroll-licença)
 
 ## :octocat: Sobre Mim
-Sou apaixonado por desenvolvimento web, UX/UI, design, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
-Neste repositório, você encontrará projetos e recursos relacionados ao meu trabalho em desenvolvimento web com foco no ensino do português como língua estrangeira, utilizando os princípios da multimodalidade e multiletramentos.
+Sou apaixonado por desenvolvimento web, UX/UI, design, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas e produtos capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
+Neste repositório, você encontrará projetos e recursos relacionados ao meu trabalho em desenvolvimento web com foco no ensino do português como língua estrangeira, utilizando as boas práticas do UX design, bem como os princípios da multimodalidade e multiletramentos.
 
 ## :computer: Estou Aprendendo
 
