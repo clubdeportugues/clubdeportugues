@@ -74,7 +74,7 @@ O Abaporunhol oferece uma aplicação para cifrar e decifrar textos utilizando c
 
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou qualquer outra questão relacionada aos projetos e recursos aqui apresentados.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Prado-%23001B52?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/amandaprado-redatora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Prado-%23001B52?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/amandapradosilva)
 
 [![Email](https://img.shields.io/badge/Email-amanda%40clubdeportugues.com-%2352b128?logo=gmail&style=for-the-badge&logoColor=white)](mailto:amanda@clubdeportugues.com)
 
