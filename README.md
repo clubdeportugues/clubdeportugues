@@ -11,9 +11,9 @@ Sou Amanda Prado, do [Club de Português :brazil:](https://clubdeportugues.com/)
  
  [:small_blue_diamond: Estou Aprendendo](#computer-estou-aprendendo)
  
- [:small_blue_diamond: Sobre Club de Português](#speech_balloon-sobre-club-de-português)
- 
  [:small_blue_diamond: Projetos Destacados](#star2-projetos-destacados)
+
+ [:small_blue_diamond: Sobre Club de Português](#speech_balloon-sobre-club-de-português)
  
  [:small_blue_diamond: Contatos](#mailbox-contatos)
  
@@ -22,10 +22,14 @@ Sou Amanda Prado, do [Club de Português :brazil:](https://clubdeportugues.com/)
  [:small_blue_diamond: Licenças](#scroll-licença)
 
 ## :octocat: Sobre Mim
-Sou apaixonado por desenvolvimento web, UX/UI, design, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas e produtos capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
+Sou formada em Design de Moda, apaixonado por desenvolvimento web, UX/UI, design, comunicação, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas e produtos capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
 Neste repositório, você encontrará projetos e recursos relacionados ao meu trabalho em desenvolvimento web com foco no ensino do português como língua estrangeira, utilizando as boas práticas do UX design, bem como os princípios da multimodalidade e multiletramentos.
 
 ## :computer: Estou Aprendendo
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
+
+<img src="https://w7.pngwing.com/pngs/565/63/png-transparent-adobe-xd-macos-bigsur-icon-thumbnail.png" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> 
 
@@ -35,12 +39,43 @@ Neste repositório, você encontrará projetos e recursos relacionados ao meu tr
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
+## :star2: Projetos Destacados 
 
-## :speech_balloon: Sobre [Club de Português](https://clubdeportugues.com/) 
-[Bem-vindos ao Club!](https://clubdeportugues.com/) Meu espaço criado para o ensino do idioma português como língua estrangeira para hispanofalantes, com enfoque em negócios. 
+### :small_blue_diamond: [Traductor Chileno](https://www.figma.com/proto/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?page-id=0%3A1&type=design&node-id=1-2&viewport=748%2C390%2C0.1&t=Fm8LNIpyhpg5iRJR-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
 
-## :star2: Projetos Destacados
+Projeto desenvolvido com as ferramentas 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+
+
+
+Atualmente há uma grande afluência de residentes estrangeiros no Chile, principalmente os provenientes de outros países de fala espanhola. Esse público acaba por encontrar dificuldades em sua comunicação por não conhecer a cultura nem as gírias do novo país. Nesse contexto, surge a ideia de resolver tal problema de forma gamificada com a criação do Traductor Chileno, um aplicativo para smartphones que acompanha e guia os usuários hispanofalantes estrangeiros em sua nova experiência ao viver no Chile, permitindo que conheçam muito mais sobre a cultura popular chilena.
+
+O Traductor Chileno é um aplicativo intuitivo, fácil de usar, envolvente e didático, com um design amigável, simples e que destaca as cores da bandeira chilena.
+
+[Conheça um pouco do processo de design]() do Traductor Chileno com as etapas de pesquisa, wireframes, teste com usuários e reiterações.
+
+Confira o resultado alcançado:
+
+[Acesse o projeto no Figma](https://www.figma.com/file/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?type=design&node-id=0%3A1&mode=design&t=571F4LgOmhzOnv6G-1) e a [última versão do mockup](https://www.figma.com/proto/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?page-id=0%3A1&type=design&node-id=1-2&viewport=748%2C390%2C0.1&t=Fm8LNIpyhpg5iRJR-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design) tendo em vista as etapas anteriores.
+
+[Acesse o protótipo de baixa fidelidade](https://traductor-chileno--pradoamanda.repl.co/) implementado para validar conceitos e garantir que a estrutura da interface e as interações estejam alinhadas às necessidades do usuário.
+
+### :small_blue_diamond: [Abaporunhol](https://github.com/clubdeportugues/abaporunhol/tree/main#readme)
+
+Projeto desenvolvido com as ferramentas 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+
+
+
+O Abaporunhol oferece uma aplicação para cifrar e decifrar textos utilizando chaves de criptografia. Assim, a página do projeto permite que os usuários insiram um texto para ser criptografado ou descriptografado, e também oferece a opção de copiar o resultado para a área de transferência. Porém, destaca-se seu conceito com inspiração na intertextualidade entre o movimento antropofágico brasileiro e o enigma da esfinge que diz:
+
+— Decifra-me ou te devoro!
+
+[Acesse o projeto no Figma](https://www.figma.com/file/8GtIRel9JQeGi6DIERgLpV/Abaporunhol?type=design&node-id=16%3A802&mode=design&t=Zm2uKgPowwZQDiVn-1) para conhecer a versão de teste em relação à experiência do usuário.
+
+[Acesse a versão beta](https://clubdeportugues.github.io/abaporunhol/) para conhecer o Abaporu, que está aprendendo português e pode te ajudar a explorar o Abaporunhol.
 
 ### :small_blue_diamond: [Club de Português](https://clubdeportugues.com/)
 
@@ -58,17 +93,8 @@ Projeto desenvolvido com a ferramenta
 
 Esse blog tem o objetivo de compartilhar conteúdo relevante sobre o ensino do português como língua estrangeira.
 
-### :small_blue_diamond: [Abaporunhol](https://github.com/clubdeportugues/abaporunhol/tree/main#readme)
-
-Projeto desenvolvido com as ferramentas 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>
-
-O Abaporunhol oferece uma aplicação para cifrar e decifrar textos utilizando chaves de criptografia. Assim, a página do projeto permite que os usuários insiram um texto para ser criptografado ou descriptografado, e também oferece a opção de copiar o resultado para a área de transferência. Porém, destaca-se seu conceito com inspiração na intertextualidade entre o movimento antropofágico brasileiro e o enigma da esfinge que diz:
-
-— Decifra-me ou te devoro!
-
-[Acesse a página](https://clubdeportugues.github.io/abaporunhol/) para conhecer o Abaporu, que está aprendendo português e pode te ajudar a explorar o Abaporunhol.
+## :speech_balloon: Sobre [Club de Português](https://clubdeportugues.com/) 
+[Bem-vindos ao Club!](https://clubdeportugues.com/) Meu espaço criado para o ensino do idioma português como língua estrangeira para hispanofalantes, com enfoque em negócios. 
 
 ## :mailbox: Contatos
 
@@ -91,4 +117,4 @@ Meus repositórios estão licenciados sob a [Licença MIT](https://opensource.or
 Por favor, leia atentamente antes de utilizar ou contribuir.
 
 
-<h6 align="center">Copyright :copyright: 2023 - Amanda Prado l Club de Português</h6>
+<h6 align="center">Copyright :copyright: 2023 - Amanda Prado | Club de Português</h6>
