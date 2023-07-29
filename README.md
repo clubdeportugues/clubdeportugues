@@ -1,8 +1,6 @@
 # <h1 align="center">Olá :wave:</h1>
 Sou Amanda Prado, UX Designer do [Club de Português :brazil:](https://clubdeportugues.com/) :green_heart: :yellow_heart:
 
-**Dica: Pressione a tecla "Ctrl" ou "Cmd" no Mac ao clicar nos links externos para abrí-los em uma nova aba.**
-
 ## :bookmark_tabs: Índice 
 
  [:small_blue_diamond: Título](#olá-wave)
@@ -42,6 +40,7 @@ Neste repositório, você encontrará projetos e recursos relacionados ao meu tr
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
 
 ## :star2: Projetos Destacados 
+**Dica: Pressione a tecla "Ctrl" ou "Cmd" no Mac ao clicar nos links externos para abrí-los em uma nova aba.**
 
 ### :small_blue_diamond: [Traductor Chileno](https://www.figma.com/proto/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?page-id=0%3A1&type=design&node-id=1-2&viewport=748%2C390%2C0.1&t=Fm8LNIpyhpg5iRJR-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
 
