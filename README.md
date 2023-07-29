@@ -1,5 +1,7 @@
 # <h1 align="center">Olá :wave:</h1>
-Sou Amanda Prado, UX Designer do <a href="https://clubdeportugues.com/" target="_blank">Club de Português</a> :green_heart: :yellow_heart: 
+Sou Amanda Prado, UX Designer do [Club de Português :brazil:](https://clubdeportugues.com/) :green_heart: :yellow_heart:
+
+**Dica: Pressione a tecla "Ctrl" ou "Cmd" no Mac ao clicar nos links externos para abrí-los em uma nova aba.**
 
 ## :bookmark_tabs: Índice 
 
