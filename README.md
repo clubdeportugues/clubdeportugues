@@ -1,5 +1,5 @@
 # <h1 align="center">Olá :wave:</h1>
-Sou Amanda Prado, do [Club de Português :brazil:](https://clubdeportugues.com/) :green_heart: :yellow_heart: 
+Sou Amanda Prado, UX Designer do [Club de Português :brazil:](https://clubdeportugues.com/) :green_heart: :yellow_heart: 
 
 ## :bookmark_tabs: Índice 
 
@@ -23,7 +23,7 @@ Sou Amanda Prado, do [Club de Português :brazil:](https://clubdeportugues.com/)
 
 ## :octocat: Sobre Mim
 Sou formada em Design de Moda, apaixonado por desenvolvimento web, UX/UI, design, comunicação, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas e produtos capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
-Neste repositório, você encontrará projetos e recursos relacionados ao meu trabalho em desenvolvimento web com foco no ensino do português como língua estrangeira, utilizando as boas práticas do UX design, bem como os princípios da multimodalidade e multiletramentos.
+Neste repositório, você encontrará projetos e recursos relacionados ao meu trabalho em desenvolvimento web com foco no ensino, utilizando as boas práticas do UX design, bem como os princípios da multimodalidade e multiletramentos.
 
 ## :computer: Estou Aprendendo
 
@@ -49,15 +49,16 @@ Projeto desenvolvido com as ferramentas
 
 
 
-Atualmente há uma grande afluência de residentes estrangeiros no Chile, principalmente os provenientes de outros países de fala espanhola. Esse público acaba por encontrar dificuldades em sua comunicação por não conhecer a cultura nem as gírias do novo país. Nesse contexto, surge a ideia de resolver tal problema de forma gamificada com a criação do Traductor Chileno, um aplicativo para smartphones que acompanha e guia os usuários hispanofalantes estrangeiros em sua nova experiência ao viver no Chile, permitindo que conheçam muito mais sobre a cultura popular chilena.
+Atualmente há uma grande afluência de residentes estrangeiros no Chile, principalmente os provenientes de outros países de fala espanhola. Esse público acaba por encontrar dificuldades em sua comunicação por não conhecer a cultura nem as gírias do novo país. Nesse contexto, surge a ideia de resolver tal problema de forma gamificada com a criação do Traductor Chileno. 
+Esse aplicativo para smartphones tem a missão de acompanhar de forma empática e guiar os usuários hispanofalantes estrangeiros em sua nova experiência ao viver no Chile. Assim, o objetivo principal é promover o conhecimento sobre a cultura popular chilena de forma lúdica ao responder diferentes perguntas escolhendo sua resposta em uma lista de alternativas.
 
 O Traductor Chileno é um aplicativo intuitivo, fácil de usar, envolvente e didático, com um design amigável, simples e que destaca as cores da bandeira chilena.
 
-[Conheça um pouco do processo de design]() do Traductor Chileno com as etapas de pesquisa, wireframes, teste com usuários e reiterações.
+[Conheça um pouco do processo de design](https://www.figma.com/proto/txtuzOXZMXrklXH5HCpU25/Processo-de-design%3A-Traductor-Chileno?type=design&node-id=503-19&t=2RyULpWKHFDUkggS-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=505%3A490&mode=design) do Traductor Chileno com as etapas de pesquisa, sketches, wireframes, feedbacks dos testes com usuários e iterações.
 
 Confira o resultado alcançado:
 
-[Acesse o projeto no Figma](https://www.figma.com/file/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?type=design&node-id=0%3A1&mode=design&t=571F4LgOmhzOnv6G-1) e a [última versão do mockup](https://www.figma.com/proto/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?page-id=0%3A1&type=design&node-id=1-2&viewport=748%2C390%2C0.1&t=Fm8LNIpyhpg5iRJR-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design) tendo em vista as etapas anteriores.
+[Acesse o projeto no Figma](https://www.figma.com/file/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?type=design&node-id=0%3A1&mode=design&t=571F4LgOmhzOnv6G-1) e a [última versão do mockup](https://www.figma.com/proto/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?page-id=0%3A1&type=design&node-id=1-2&viewport=748%2C390%2C0.1&t=Fm8LNIpyhpg5iRJR-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design).
 
 [Acesse o protótipo de baixa fidelidade](https://traductor-chileno--pradoamanda.repl.co/) implementado para validar conceitos e garantir que a estrutura da interface e as interações estejam alinhadas às necessidades do usuário.
 
@@ -94,11 +95,11 @@ Projeto desenvolvido com a ferramenta
 Esse blog tem o objetivo de compartilhar conteúdo relevante sobre o ensino do português como língua estrangeira.
 
 ## :speech_balloon: Sobre [Club de Português](https://clubdeportugues.com/) 
-[Bem-vindos ao Club!](https://clubdeportugues.com/) Meu espaço criado para o ensino do idioma português como língua estrangeira para hispanofalantes, com enfoque em negócios. 
+[Bem-vindos ao Club!](https://clubdeportugues.com/) Meu espaço criado para o ensino do idioma português como língua estrangeira para hispanofalantes com enfoque em negócios. Lá eu coloco em prática minhas descobertas sobre UX e programação como ferramentas que me ajudam a ensinar melhor. 
 
 ## :mailbox: Contatos
 
-Fique à vontade para entrar em contato comigo para discussões, colaborações ou qualquer outra questão relacionada aos projetos e recursos aqui apresentados.
+Fique à vontade para entrar em contato comigo para discussões, colaborações, jobs ou qualquer outra questão relacionada aos projetos e recursos aqui apresentados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Prado-%23001B52?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/amandapradosilva)
 
