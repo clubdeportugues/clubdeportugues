@@ -22,7 +22,7 @@ Sou Amanda Prado, UX Designer do [Club de Português :brazil:](https://clubdepor
  [:small_blue_diamond: Licenças](#scroll-licença)
 
 ## :octocat: Sobre Mim
-Sou formada em Design de Moda, apaixonado por desenvolvimento web, UX/UI, design, comunicação, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas e produtos capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
+Tenho formação em Design de Moda, concluí meu MBA com ênfase em design e luxo, sou apaixonada por desenvolvimento web, UX/UI, design, comunicação, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas e produtos capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
 Neste repositório, você encontrará projetos e recursos relacionados ao meu trabalho em desenvolvimento web com foco no ensino, utilizando as boas práticas do UX design, bem como os princípios da multimodalidade e multiletramentos.
 
 ## :computer: Estou Aprendendo
