@@ -81,7 +81,7 @@ Fique à vontade para entrar em contato comigo para discussões, colaborações,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Prado-%23001B52?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/amandapradosilva)
 
-[![Email](https://img.shields.io/badge/Email-amanda%40clubdeportugues.com-%2352b128?logo=gmail&style=for-the-badge&logoColor=white)](mailto:amandaaa.prado@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amandaaa.prado%40gmail.com-%2352b128?logo=gmail&style=for-the-badge&logoColor=white)](mailto:amandaaa.prado@gmail.com)
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Amanda%20Prado-%23FFDF00?style=for-the-badge&logo=notion&logoColor=white)](https://amandachuvadeideias.notion.site/amandachuvadeideias/Portf-lio-Amanda-Prado-cb48fbfadea148c2b711b26b4df782be)
 
