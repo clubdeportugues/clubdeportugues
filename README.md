@@ -94,5 +94,5 @@ Se você tiver sugestões, melhorias ou ideias para colaborar com meus projetos,
 Meus repositórios estão licenciados sob a [Licença MIT](https://opensource.org/licenses/MIT).
 Por favor, leia atentamente antes de utilizar ou contribuir.
 
-
 <h6 align="center">Copyright :copyright: 2023 - Amanda Prado </h6>
+
