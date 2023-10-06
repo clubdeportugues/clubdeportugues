@@ -1,5 +1,5 @@
 # <h1 align="center">Olá :wave:</h1>
-Sou Amanda Prado, UX Designer do [Club de Português :brazil:](https://clubdeportugues.com/) :green_heart: :yellow_heart:
+Meu nome é Amanda e sou UX Designer. Atualmente atuo como UX Writer e instrutora de português na [Native Teachers 🇨🇱](https://www.nativeteachers.cl/)
 
 ## :bookmark_tabs: Índice 
 
@@ -9,11 +9,9 @@ Sou Amanda Prado, UX Designer do [Club de Português :brazil:](https://clubdepor
  
  [:small_blue_diamond: Sobre Mim](#octocat-sobre-mim)
  
- [:small_blue_diamond: Estou Aprendendo](#computer-estou-aprendendo)
+ [:small_blue_diamond: Ferramentas](#computer-ferramentas)
  
  [:small_blue_diamond: Projetos Destacados](#star2-projetos-destacados)
-
- [:small_blue_diamond: Sobre Club de Português](#speech_balloon-sobre-club-de-português)
  
  [:small_blue_diamond: Contatos](#mailbox-contatos)
  
@@ -22,11 +20,9 @@ Sou Amanda Prado, UX Designer do [Club de Português :brazil:](https://clubdepor
  [:small_blue_diamond: Licenças](#scroll-licença)
 
 ## :octocat: Sobre Mim
-Tenho formação em Design de Moda, concluí meu MBA com ênfase em design e luxo, sou apaixonada por desenvolvimento web, UX/UI, design, comunicação, marketing inbound, copywriting, ensino de idiomas e acredito no poder da união desses elementos para criar páginas e produtos capazes de estimular o aprendizado, além de proporcionar uma experiência excepcional ao usuário.
-Neste repositório, você encontrará projetos e recursos relacionados ao meu trabalho em desenvolvimento web com foco no ensino, utilizando as boas práticas do UX design, bem como os princípios da multimodalidade e multiletramentos.
+Tenho formação em Design de Moda, concluí meu MBA com ênfase em Design e Luxo, estudo Letras - Português e sou apaixonada por design de produtos digitais, UX/UI, tecnologia e comunicação. Eu acredito no poder da união desses elementos para criar soluções que sejam usáveis, equitativas, agradáveis e úteis para os usuários. Meu objetivo é resolver problemas ao desenvolver produtos capazes de entregar uma experiência excepcional.  
 
-## :computer: Estou Aprendendo
-
+## :computer: Ferramentas
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
 
 <img src="https://w7.pngwing.com/pngs/565/63/png-transparent-adobe-xd-macos-bigsur-icon-thumbnail.png" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>
@@ -79,36 +75,16 @@ O Abaporunhol oferece uma aplicação para cifrar e decifrar textos utilizando c
 
 [Acesse a versão beta](https://clubdeportugues.github.io/abaporunhol/) para conhecer o Abaporu, que está aprendendo português e pode te ajudar a explorar o Abaporunhol.
 
-### :small_blue_diamond: [Club de Português](https://clubdeportugues.com/)
-
-Projeto desenvolvido com a ferramenta 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
-
-Essa página tem o objetivo de apresentar meu trabalho como professora de português para estrangeiros e oferecer serviços de consultoria para empresas.
-
-### :small_blue_diamond: [Blog Club de Português](https://www.blogger.com/u/3/blog/layout/6326097501939774302)
-
-Projeto desenvolvido com a ferramenta 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" title="Blogger" alt="Blogger" width="40" height="40"/>
-
-Esse blog tem o objetivo de compartilhar conteúdo relevante sobre o ensino do português como língua estrangeira.
-
-## :speech_balloon: Sobre [Club de Português](https://clubdeportugues.com/) 
-[Bem-vindos ao Club!](https://clubdeportugues.com/) Meu espaço criado para o ensino do idioma português como língua estrangeira para hispanofalantes com enfoque em negócios. Lá eu coloco em prática minhas descobertas sobre UX e programação como ferramentas que me ajudam a ensinar melhor. 
-
 ## :mailbox: Contatos
 
 Fique à vontade para entrar em contato comigo para discussões, colaborações, jobs ou qualquer outra questão relacionada aos projetos e recursos aqui apresentados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Prado-%23001B52?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/amandapradosilva)
 
-[![Email](https://img.shields.io/badge/Email-amanda%40clubdeportugues.com-%2352b128?logo=gmail&style=for-the-badge&logoColor=white)](mailto:amanda@clubdeportugues.com)
+[![Email](https://img.shields.io/badge/Email-amanda%40clubdeportugues.com-%2352b128?logo=gmail&style=for-the-badge&logoColor=white)](mailto:amandaaa.prado@gmail.com)
 
-[![Website](https://img.shields.io/badge/Website-clubdeportugues.com-%23FFDF00?style=for-the-badge)](https://clubdeportugues.com/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Amanda%20Prado-%23FFDF00?style=for-the-badge&logo=notion&logoColor=white)](https://amandachuvadeideias.notion.site/amandachuvadeideias/Portf-lio-Amanda-Prado-cb48fbfadea148c2b711b26b4df782be)
 
-[![Blog](https://img.shields.io/badge/Blog-clubdeportugues.blogspot.com-%23019B38?logo=blogger&style=for-the-badge&logoColor=white)](https://clubdeportugues.blogspot.com/)
 
 ## :dancers: Contribuições
 Se você tiver sugestões, melhorias ou ideias para colaborar com meus projetos, fique à vontade para entrar em contato, abrir um problema ou enviar uma solicitação de pull. Estou sempre aberta a contribuições construtivas.
@@ -119,4 +95,4 @@ Meus repositórios estão licenciados sob a [Licença MIT](https://opensource.or
 Por favor, leia atentamente antes de utilizar ou contribuir.
 
 
-<h6 align="center">Copyright :copyright: 2023 - Amanda Prado | Club de Português</h6>
+<h6 align="center">Copyright :copyright: 2023 - Amanda Prado </h6>
