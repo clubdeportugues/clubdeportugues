@@ -1,5 +1,5 @@
 # <h1 align="center">Olá :wave:</h1>
-Meu nome é Amanda e sou UX Designer. Atualmente atuo como UX Writer e instrutora de português na [Native Teachers 🇨🇱](https://www.nativeteachers.cl/)
+Meu nome é Amanda e sou UX Designer. Atualmente atuo como Designer Educacional na [Native Teachers 🇨🇱](https://www.nativeteachers.cl/)
 
 ## :bookmark_tabs: Índice 
 
@@ -20,7 +20,7 @@ Meu nome é Amanda e sou UX Designer. Atualmente atuo como UX Writer e instrutor
  [:small_blue_diamond: Licenças](#scroll-licença)
 
 ## :octocat: Sobre Mim
-Tenho formação em Design de Moda, concluí meu MBA com ênfase em Design e Luxo, estudo Letras - Português e sou apaixonada por design de produtos digitais, UX/UI, tecnologia e comunicação. Eu acredito no poder da união desses elementos para criar soluções que sejam usáveis, equitativas, agradáveis e úteis para os usuários. Meu objetivo é resolver problemas ao desenvolver produtos capazes de entregar uma experiência excepcional.  
+Tenho formação Moda, concluí meu MBA com ênfase em Design e atualmente estudo Administração e Letras - Português. Sou apaixonada por design de produtos digitais, UX/UI, tecnologia, educação e comunicação. Eu acredito no poder da união desses elementos para criar soluções que sejam usáveis, equitativas, agradáveis e úteis para os usuários. Meu objetivo é resolver problemas ao desenvolver produtos capazes de entregar uma experiência excepcional.  
 
 ## :computer: Ferramentas
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
