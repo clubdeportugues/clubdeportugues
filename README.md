@@ -1,5 +1,5 @@
 # <h1 align="center">Olá :wave:</h1>
-Meu nome é Amanda e sou UX Designer. Atualmente atuo como Designer Educacional na [Native Teachers 🇨🇱](https://www.nativeteachers.cl/)
+Meu nome é Amanda e sou UX Designer. Atualmente atuo como Estagiária de Comunicação Interna na [Tátil Design](https://tatil.com.br/).
 
 ## :bookmark_tabs: Índice 
 
@@ -20,7 +20,9 @@ Meu nome é Amanda e sou UX Designer. Atualmente atuo como Designer Educacional 
  [:small_blue_diamond: Licenças](#scroll-licença)
 
 ## :octocat: Sobre Mim
-Tenho formação Moda, concluí meu MBA com ênfase em Design e atualmente estudo Administração e Letras - Português. Sou apaixonada por design de produtos digitais, UX/UI, tecnologia, educação e comunicação. Eu acredito no poder da união desses elementos para criar soluções que sejam usáveis, equitativas, agradáveis e úteis para os usuários. Meu objetivo é resolver problemas ao desenvolver produtos capazes de entregar uma experiência excepcional.  
+Tenho formação Moda e concluí meu MBA com ênfase em Design. Atualmente estudo Letras, sou apaixonada por inovação, design, UX/UI, tecnologia e comunicação. 
+
+Eu acredito no poder da união desses elementos para criar soluções que sejam usáveis, equitativas, agradáveis e úteis. Meu objetivo é resolver problemas ao desenvolver experiências excepcionais que melhoram a vida das pessoas. 
 
 ## :computer: Ferramentas
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
@@ -35,7 +37,7 @@ Tenho formação Moda, concluí meu MBA com ênfase em Design e atualmente estud
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
 
-## :star2: Projetos Destacados 
+## :star2: Projetos
 **Dica: Pressione a tecla "Ctrl" ou "Cmd" no Mac ao clicar nos links externos para abrí-los em uma nova aba.**
 
 ### :small_blue_diamond: [Traductor Chileno](https://www.figma.com/proto/mrsS6ruqMyW4yfcZrs5O0x/Traductor-Chileno?page-id=0%3A1&type=design&node-id=1-2&viewport=748%2C390%2C0.1&t=Fm8LNIpyhpg5iRJR-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
